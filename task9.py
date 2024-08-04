@@ -8,9 +8,6 @@ for i in s:
         dict[i]=1
 print(dict)
 l1=list(dict.values())
-l2=list(dict.keys())
-print(l1)
-print(l2)
 if l1.count(l1[0])==len(l1):
     print(0) 
 else:
