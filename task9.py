@@ -24,9 +24,6 @@ for i in range(n):
     r=tuple(eval(input("enter player number,score")))
     l3.append(r)
 print(l3) 
-for i in range(len(l3)):   
-    
-    print(l3[i][0],end=" ")
 
 # task 4
 dict={
